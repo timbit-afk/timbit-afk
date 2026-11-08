@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="TILEGEN BAIYSHOV — Junior Backend Developer // Bishkek" />
+</p>
+
+<p align="center">
   <img src="./assets/terminal.svg" width="100%" alt="Tilegen Baiyshov — Junior Backend Developer" />
 </p>
 
